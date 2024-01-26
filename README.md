@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m ARYAN<br>
 👀 I’m an Active Open Source Contributor at CNCF/Glossary and Kubernetes<br>🌱 I’m currently pursuing a Bachelor of Engineering<br>😄 Pronouns: He/Him
 
-## 📈 Contribution curve
+## 📈 Contribution curve:
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Singla&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
@@ -22,11 +22,11 @@
 </p>
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Aryan-Singla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-## 👀 Profile Visit
+## 👀 Profile Visit:
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Aryan-Singla&label=Profile%20Views&icon=7&pretty=false" />
 </a>
