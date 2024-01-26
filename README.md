@@ -1,4 +1,4 @@
-<div align = "center">
+
 ## 👋 Hi, I’m ARYAN<br>
 👀 I’m an Active Open Source Contributor at CNCF/Glossary and Kubernetes<br>🌱 I’m currently pursuing a Bachelor of Engineering<br>😄 Pronouns: He/Him
 
@@ -35,4 +35,4 @@
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+
