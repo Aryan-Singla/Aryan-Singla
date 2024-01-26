@@ -26,6 +26,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Aryan-Singla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryan-Singla&icon=4&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Visit
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Aryan-Singla&label=Profile%20Views&icon=7&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
