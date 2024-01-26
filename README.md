@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m ARYAN<br>👀 I’m an Active Open Source Contributor at CNCF/Glossary and Kubernetes<br>🌱 I’m currently pursuing a Bachelor of Engineering<br>😄 Pronouns: He/Him
 
-![snake animation](https://github.com/<seu uAryan-Singla>/<seu Aryan-Singla>/blob/output/github-contribution-grid-snake2.svg)
 
 
 ## 🌐 Socials:
