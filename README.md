@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aryan-Singla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Contribution curve
+## 📈 Contribution curve
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Singla&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
