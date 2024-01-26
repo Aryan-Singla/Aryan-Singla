@@ -30,9 +30,10 @@
 
 ---
 ## 👀 Profile Visit:
+<div align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Aryan-Singla&label=Profile%20Views&icon=7&pretty=false" />
 </a>
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
