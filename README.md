@@ -16,8 +16,11 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Singla&theme=monokai&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api?username=Aryan-Singla&theme=monokai&hide_border=false&include_all_commits=true&count_private=true) </br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Singla&theme=monokai&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Singla&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aryan-Singla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
