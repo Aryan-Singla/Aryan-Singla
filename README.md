@@ -13,6 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Singla&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Singla&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![snake gif](https://github.com/Aryan-Singla/Aryan-Singla/blob/output/github-contribution-grid-snake.gif)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aryan-Singla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
