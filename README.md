@@ -1,3 +1,4 @@
+
 ## 👋 Hi, I’m ARYAN<br>
 👀 I’m an Active Open Source Contributor at CNCF/Glossary and Kubernetes<br>🌱 I’m currently pursuing a Bachelor of Engineering<br>😄 Pronouns: He/Him
 
@@ -43,8 +44,6 @@
     <img src="https://skillicons.dev/icons?i=git,java,html,c,cpp,css,github,vscode,react,python,r,javascript" />
   </a>
 </p>
-
----
 
 ---
 ## 👀 Profile Visit:
