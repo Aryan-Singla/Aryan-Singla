@@ -50,7 +50,8 @@
 
 ---
 ## 👀 Profile Visit:
-[![](https://visitcount.itsvg.in/api?id=Aryan-Singla&label=Profile%20Visit&pretty=false)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Aryan-Singla&label=Profile%20Visit&pretty=false" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
