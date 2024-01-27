@@ -1,4 +1,3 @@
-
 ## 👋 Hi, I’m ARYAN<br>
 👀 I’m an Active Open Source Contributor at CNCF/Glossary and Kubernetes<br>🌱 I’m currently pursuing a Bachelor of Engineering<br>😄 Pronouns: He/Him
 
@@ -47,11 +46,13 @@
 
 ---
 
-
 ---
 ## 👀 Profile Visit:
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Aryan-Singla&label=Profile%20Visit&pretty=false" />
-</a>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{Aryan-Singla}/count.svg)
+
+</div>
+
+
 
