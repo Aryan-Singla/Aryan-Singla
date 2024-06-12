@@ -36,12 +36,7 @@
 </p>
 
 ---
-## 👀 Profile Visit:
-<div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{Aryan-Singla}/count.svg)
-
-</div>
 
 
 
