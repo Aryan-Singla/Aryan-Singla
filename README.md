@@ -27,16 +27,6 @@
 
 ---
 
-## 🌐 Socials:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,twitter,linkedin" />
-    
-  </a>
-</p>
-
----
 
 ## 💻 Tech Stack:
 <p align="center">
