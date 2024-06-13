@@ -1,6 +1,10 @@
 
 # 👋 Hi, I’m ARYAN<br>
-<br>🌱 I’m currently pursuing a Bachelor of Engineering<br>😄 Pronouns: He/Him
+<br>🎓 I’m currently pursuing a Bachelor of Engineering in Computer Science
+<br>👑 Campus Ambassador at Coding Blocks and Geeks For Geeks
+<br>👓 Microsoft Student Learn Ambassador
+<br>👷🏼‍♂️Postman Student Expert
+<br>👔 Pronouns: He/Him
 
 ---
 
