@@ -26,12 +26,7 @@
 ---
 
 
-## 🐍 Snake Eating My Contribution:
-<div align="center">
-  
-![Snake animation](https://github.com/Aryan-Singla/Aryan-Singla/blob/output/github-contribution-grid-snake-dark.svg)
 
-</div>
 
 ---
 
