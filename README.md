@@ -19,19 +19,30 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Aryan-Singla&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Singla&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="46.3%" height="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan-Singla&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="50.8%" height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Singla&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
+<!--
+## 🐍 Snake Eating My Contribution:
+<div align="center">
+  
+![Snake animation](https://github.com/Aryan-Singla/Aryan-Singla/blob/output/github-contribution-grid-snake-dark.svg)
 
-
-
----
+</div>
+--->
 
 ## 📈 Contribution curve:
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Singla&theme=green)](https://github.com/Aryan-Singla/github-readme-activity-graph)
+<div>
+  
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Singla&theme=merko)](https://github.com/Aryan-Singla/github-readme-activity-graph)
+
+</div>
+
+
+
 
 ---
 
