@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m ARYAN
+# 👋 Hi, I’m ARYAN SINGLA
 <br>🎓 I’m currently pursuing a Bachelor of Engineering in Computer Science
 <br>👓 Microsoft Student Learn Ambassador
 <br>👷🏼‍♂️Postman Student Expert
